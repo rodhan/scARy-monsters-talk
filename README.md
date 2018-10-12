@@ -1,11 +1,12 @@
 This is a basic Xcode project to demonstrate some ARKit 2 capabilities at the [Xcake Apple Developer meetup](https://www.meetup.com/Xcake-Mobile-app-development-with-an-Appley-flavour/events/255179042/).
 
-1             |  2
+This was based on a talk I did at the Digital Hub Developer Lunch and Learn meetup last year called [Elf Yourself... On a Shelf!](https://github.com/rodhan/ElfYourselfOnAShelf).
+
+_ | _
 :-------------------------:|:-------------------------:
 ![](assets/xcake-scARy-monsters1.jpg)  |  ![](assets/xcake-scARy-monsters2.jpg)
-<sub>Image credits Luis Henrique Borges and Alexey Rashevskiy via meetup.com</sub>
 
-This was based on a talk I did at the Digital Hub Developer Lunch and Learn meetup last year called [Elf Yourself... On a Shelf!](https://github.com/rodhan/ElfYourselfOnAShelf).
+<sub>Image credits Luis Henrique Borges and Alexey Rashevskiy via meetup.com</sub>
 
 # Steps
 
