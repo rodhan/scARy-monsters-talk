@@ -1,4 +1,4 @@
-This is a basic Xcode project to demonstrate some of ARKit 2 capabilities at the [Xcake Apple Developer meetup](https://www.meetup.com/Xcake-Mobile-app-development-with-an-Appley-flavour/events/255179042/).
+This is a basic Xcode project to demonstrate some ARKit 2 capabilities at the [Xcake Apple Developer meetup](https://www.meetup.com/Xcake-Mobile-app-development-with-an-Appley-flavour/events/255179042/).
 
 1             |  2
 :-------------------------:|:-------------------------:
